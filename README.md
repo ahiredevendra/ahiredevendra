@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Devendra Ahire 👋
 
-<!--
-**ahiredevendra/ahiredevendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student | G H Raisoni College, Jalgaon
 
-Here are some ideas to get you started:
+💻 Aspiring Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🌱 Learning Java Full Stack Development.
+- 💡 Knowledge of C, Core Java and SQL.
+- 🎯 Improving my Data Structures, Algorithms and Problem-Solving skills.
+- 🚀 Interested in building real-world software projects.
+
+### Technical Skills
+- **Languages:** C, Java, SQL
+- **Database:** SQL
+- **Currently Learning:** Java Full Stack Development
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/devendra-ahire/
+- GitHub: https://github.com/ahiredevendra
+
+---
+
+⭐ Always learning, building and improving!
