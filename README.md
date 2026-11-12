@@ -16,7 +16,7 @@
 - **Currently Learning:** Java Full Stack Development
 
 ### Connect With Me
-- LinkedIn: https://www.linkedin.com/in/devendra-ahire/
+- LinkedIn: www.linkedin.com/in/devendra-ahire-008095264
 - GitHub: https://github.com/ahiredevendra
 
 ---
